@@ -32,5 +32,5 @@ Initial searcher that is used at application start, when no files were loaded to
 ### [SimpleSearcher](https://github.com/AlexeyShik/Text-Editor/blob/main/src/editor/search/SimpleSearcher.java)
 Represents search strategy without regular expressions
 
-## [RegexSearcher](https://github.com/AlexeyShik/Text-Editor/blob/main/src/editor/search/RegexSearcher.java)
+### [RegexSearcher](https://github.com/AlexeyShik/Text-Editor/blob/main/src/editor/search/RegexSearcher.java)
 Represents search strategy with regular expressions
